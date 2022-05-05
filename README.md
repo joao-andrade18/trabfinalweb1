@@ -23,3 +23,7 @@ Caso receba alguma mensagem de erro verifique a instalção do PHP e do seu banc
 
 A ideia desse projeto é ser um pequeno fórum, onde os usuários registrados podem criar tópicos e depois discutir nos comentáiros.
 Na página incial o usuário tem a opção de realizar login ou criar uma conta, após isso ele pode acessar um dos tópicos criados ou criar um novo clicando em "Crie um tópico!"
+
+## Feito por:
+
+João Vitor Andrade da Silva, Thiago dos Santos e Pedro Romero Massedo
